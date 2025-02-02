@@ -1,0 +1,57 @@
+{
+    "Happy": {
+        "seed_genres": [
+            "pop",
+            "dance",
+            "happy"
+        ],
+        "audio_features": {
+            "target_valence": 0.8,
+            "target_energy": 0.8,
+            "target_tempo": 120,
+            "min_danceability": 0.6
+        },
+        "limit": 10
+    },
+    "Sad": {
+        "seed_genres": [
+            "sad",
+            "acoustic",
+            "piano"
+        ],
+        "audio_features": {
+            "target_valence": 0.2,
+            "target_energy": 0.3,
+            "target_tempo": 80,
+            "max_danceability": 0.4
+        },
+        "limit": 10
+    },
+    "Angry": {
+        "seed_genres": [
+            "rock",
+            "metal",
+            "intense"
+        ],
+        "audio_features": {
+            "target_valence": 0.4,
+            "target_energy": 0.9,
+            "target_tempo": 140,
+            "target_loudness": -5.0
+        },
+        "limit": 10
+    },
+    "Neutral": {
+        "seed_genres": [
+            "indie",
+            "ambient",
+            "chill"
+        ],
+        "audio_features": {
+            "target_valence": 0.5,
+            "target_energy": 0.5,
+            "target_tempo": 100
+        },
+        "limit": 10
+    }
+}

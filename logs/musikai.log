@@ -1,0 +1,242 @@
+2024-11-09 15:47:15,502 - INFO - Initializing musikAI...
+2024-11-09 15:47:15,503 - INFO - Connecting to Spotify...
+2024-11-09 15:47:15,718 - INFO - Connected as: ghett0o_.
+2024-11-09 15:47:16,052 - INFO - 
+Available Spotify devices:
+2024-11-09 15:47:16,053 - INFO - - DESKTOP-0NS770S (Active)
+2024-11-09 15:47:16,476 - INFO - Loading emotion recognition models...
+2024-11-09 15:47:17,503 - INFO - 
+musikAI is ready!
+2024-11-09 15:47:17,503 - INFO - Processing video feed...
+2024-11-09 15:47:19,076 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-09 15:47:20,913 - INFO - Creating new playlist: musikAI - Neutral Mood
+2024-11-09 15:47:21,232 - INFO - 
+Updated playlist with tracks:
+2024-11-09 15:47:21,233 - INFO - - Finally Moving by Pretty Lights
+2024-11-09 15:47:21,235 - INFO - - … Passing By by Ulrich Schnauss
+2024-11-09 15:47:21,235 - INFO - - Don't Move by Phantogram
+2024-11-09 15:47:21,235 - INFO - - Team by Lorde
+2024-11-09 15:47:21,236 - INFO - - Drunk by Ed Sheeran
+2024-11-09 15:47:21,236 - INFO - 
+Attempting to start playback...
+2024-11-09 15:47:21,582 - INFO - Starting playback...
+2024-11-09 15:47:22,381 - INFO - Playback started successfully!
+2024-11-09 15:47:22,382 - INFO - Successfully started playback!
+2024-11-09 15:48:02,247 - INFO - 
+Updating playlist for mood: Happy
+2024-11-09 15:48:04,195 - INFO - Creating new playlist: musikAI - Happy Mood
+2024-11-09 15:48:04,510 - INFO - 
+Updated playlist with tracks:
+2024-11-09 15:48:04,510 - INFO - - Lights - Single Version by Ellie Goulding
+2024-11-09 15:48:04,512 - INFO - - Brown Sugar - Original Mix by Platinum Doug
+2024-11-09 15:48:04,513 - INFO - - Elouisa by The Swiss
+2024-11-09 15:48:04,513 - INFO - - Carried Away by Passion Pit
+2024-11-09 15:48:04,514 - INFO - - Sugar by Maroon 5
+2024-11-09 15:48:04,514 - INFO - 
+Attempting to start playback...
+2024-11-09 15:48:04,865 - INFO - Starting playback...
+2024-11-09 15:48:05,588 - INFO - Playback started successfully!
+2024-11-09 15:48:05,589 - INFO - Successfully started playback!
+2024-11-09 15:48:34,049 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-09 15:48:35,505 - INFO - 
+Updated playlist with tracks:
+2024-11-09 15:48:35,506 - INFO - - Crash into Me by Dave Matthews Band
+2024-11-09 15:48:35,506 - INFO - - Sitting, Waiting, Wishing by Jack Johnson
+2024-11-09 15:48:35,507 - INFO - - Just Give Me a Reason (feat. Nate Ruess) by P!nk
+2024-11-09 15:48:35,508 - INFO - - Let Me Love You by Mario
+2024-11-09 15:48:35,508 - INFO - - A Nice Little Place by Ott
+2024-11-09 15:48:35,510 - INFO - 
+Attempting to start playback...
+2024-11-09 15:48:35,841 - INFO - Starting playback...
+2024-11-09 15:48:36,554 - INFO - Playback started successfully!
+2024-11-09 15:48:36,554 - INFO - Successfully started playback!
+2024-11-09 15:49:21,506 - INFO - Initializing musikAI...
+2024-11-09 15:49:21,507 - INFO - Connecting to Spotify...
+2024-11-09 15:49:21,709 - INFO - Connected as: ghett0o_.
+2024-11-09 15:49:22,042 - INFO - 
+Available Spotify devices:
+2024-11-09 15:49:22,042 - INFO - - DESKTOP-0NS770S (Active)
+2024-11-09 15:49:22,425 - INFO - Loading emotion recognition models...
+2024-11-09 15:49:23,480 - INFO - 
+musikAI is ready!
+2024-11-09 15:49:23,480 - INFO - Processing video feed...
+2024-11-09 15:49:25,205 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-09 15:49:27,102 - INFO - Creating new playlist: musikAI - Neutral Mood
+2024-11-09 15:49:27,403 - INFO - 
+Updated playlist with tracks:
+2024-11-09 15:49:27,403 - INFO - - Finally Moving by Pretty Lights
+2024-11-09 15:49:27,404 - INFO - - … Passing By by Ulrich Schnauss
+2024-11-09 15:49:27,404 - INFO - - Don't Move by Phantogram
+2024-11-09 15:49:27,404 - INFO - - Team by Lorde
+2024-11-09 15:49:27,404 - INFO - - Drunk by Ed Sheeran
+2024-11-09 15:49:27,406 - INFO - 
+Attempting to start playback...
+2024-11-09 15:49:27,736 - INFO - Starting playback...
+2024-11-09 15:49:29,106 - INFO - Playback started successfully!
+2024-11-09 15:49:29,107 - INFO - Successfully started playback!
+2024-11-09 15:49:55,366 - INFO - 
+Updating playlist for mood: Angry
+2024-11-09 15:49:57,400 - INFO - Creating new playlist: musikAI - Angry Mood
+2024-11-09 15:49:57,714 - INFO - 
+Updated playlist with tracks:
+2024-11-09 15:49:57,715 - INFO - - Ghost by Badflower
+2024-11-09 15:49:57,715 - INFO - - Symphony Of Destruction by Megadeth
+2024-11-09 15:49:57,715 - INFO - - War Is Killing Us All by Righteous Vendetta
+2024-11-09 15:49:57,717 - INFO - - Golden Dandelions by Barns Courtney
+2024-11-09 15:49:57,717 - INFO - - The Doomed by A Perfect Circle
+2024-11-09 15:49:57,718 - INFO - 
+Attempting to start playback...
+2024-11-09 15:49:58,051 - INFO - Starting playback...
+2024-11-09 15:49:58,771 - INFO - Playback started successfully!
+2024-11-09 15:49:58,772 - INFO - Successfully started playback!
+2024-11-09 15:50:25,439 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-09 15:50:26,789 - INFO - 
+Updated playlist with tracks:
+2024-11-09 15:50:26,789 - INFO - - 4EVER by Clairo
+2024-11-09 15:50:26,790 - INFO - - A Nice Little Place by Ott
+2024-11-09 15:50:26,790 - INFO - - Seeya Later by Boards of Canada
+2024-11-09 15:50:26,791 - INFO - - 23 Minutes in Brussels by Luna
+2024-11-09 15:50:26,791 - INFO - - Mythological Beauty by Big Thief
+2024-11-09 15:50:26,791 - INFO - 
+Attempting to start playback...
+2024-11-09 15:50:27,140 - INFO - Starting playback...
+2024-11-09 15:50:28,210 - INFO - Playback started successfully!
+2024-11-09 15:50:28,211 - INFO - Successfully started playback!
+2024-11-09 16:09:56,472 - INFO - Initializing musikAI...
+2024-11-09 16:09:56,474 - INFO - Connecting to Spotify...
+2024-11-09 16:09:56,772 - INFO - Connected as: ghett0o_.
+2024-11-09 16:09:57,121 - INFO - 
+Available Spotify devices:
+2024-11-09 16:09:57,122 - INFO - - DESKTOP-0NS770S (Active)
+2024-11-09 16:09:57,616 - INFO - Loading emotion recognition models...
+2024-11-09 16:09:58,962 - INFO - 
+musikAI is ready!
+2024-11-09 16:09:58,963 - INFO - Processing video feed...
+2024-11-09 16:10:00,673 - INFO - 
+Updating playlist for mood: Sad
+2024-11-09 16:10:03,039 - INFO - Creating new playlist: musikAI - Sad Mood
+2024-11-09 16:10:03,582 - INFO - 
+Updated playlist with tracks:
+2024-11-09 16:10:03,584 - INFO - - Passing By by Yiruma
+2024-11-09 16:10:03,584 - INFO - - Hurricane - Unplugged by Thirty Seconds To Mars
+2024-11-09 16:10:03,584 - INFO - - Loanna by Yiruma
+2024-11-09 16:10:03,585 - INFO - - Passing By - Original by Yiruma
+2024-11-09 16:10:03,585 - INFO - - the lonely by Christina Perri
+2024-11-09 16:10:03,586 - INFO - 
+Attempting to start playback...
+2024-11-09 16:10:03,927 - INFO - Starting playback...
+2024-11-09 16:10:04,654 - INFO - Playback started successfully!
+2024-11-09 16:10:04,655 - INFO - Successfully started playback!
+2024-11-09 16:10:30,921 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-09 16:10:33,658 - INFO - Creating new playlist: musikAI - Neutral Mood
+2024-11-09 16:10:34,017 - INFO - 
+Updated playlist with tracks:
+2024-11-09 16:10:34,017 - INFO - - Finally Moving by Pretty Lights
+2024-11-09 16:10:34,017 - INFO - - … Passing By by Ulrich Schnauss
+2024-11-09 16:10:34,018 - INFO - - Don't Move by Phantogram
+2024-11-09 16:10:34,018 - INFO - - Team by Lorde
+2024-11-09 16:10:34,018 - INFO - - Drunk by Ed Sheeran
+2024-11-09 16:10:34,019 - INFO - 
+Attempting to start playback...
+2024-11-09 16:10:34,375 - INFO - Starting playback...
+2024-11-09 16:10:35,097 - INFO - Playback started successfully!
+2024-11-09 16:10:35,097 - INFO - Successfully started playback!
+2024-11-09 16:11:03,668 - INFO - 
+Updating playlist for mood: Angry
+2024-11-09 16:11:05,798 - INFO - Creating new playlist: musikAI - Angry Mood
+2024-11-09 16:11:06,143 - INFO - 
+Updated playlist with tracks:
+2024-11-09 16:11:06,143 - INFO - - Ghost by Badflower
+2024-11-09 16:11:06,143 - INFO - - Symphony Of Destruction by Megadeth
+2024-11-09 16:11:06,144 - INFO - - War Is Killing Us All by Righteous Vendetta
+2024-11-09 16:11:06,144 - INFO - - The Doomed by A Perfect Circle
+2024-11-09 16:11:06,144 - INFO - - Crazy Train - 2002 Version by Ozzy Osbourne
+2024-11-09 16:11:06,145 - INFO - 
+Attempting to start playback...
+2024-11-09 16:11:06,502 - INFO - Starting playback...
+2024-11-09 16:11:07,239 - INFO - Playback started successfully!
+2024-11-09 16:11:07,240 - INFO - Successfully started playback!
+2024-11-09 16:42:45,732 - INFO - Initializing musikAI...
+2024-11-09 16:42:45,732 - INFO - Connecting to Spotify...
+2024-11-09 16:42:45,957 - INFO - Connected as: ghett0o_.
+2024-11-09 16:42:46,292 - INFO - 
+Available Spotify devices:
+2024-11-09 16:42:46,293 - INFO - - DESKTOP-0NS770S (Active)
+2024-11-09 16:42:46,676 - INFO - Loading emotion recognition models...
+2024-11-09 16:42:47,783 - INFO - 
+musikAI is ready!
+2024-11-09 16:42:47,783 - INFO - Processing video feed...
+2024-11-09 16:42:49,628 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-09 16:42:51,569 - INFO - Creating new playlist: musikAI - Neutral Mood
+2024-11-09 16:42:51,888 - INFO - 
+Updated playlist with tracks:
+2024-11-09 16:42:51,889 - INFO - - Finally Moving by Pretty Lights
+2024-11-09 16:42:51,890 - INFO - - … Passing By by Ulrich Schnauss
+2024-11-09 16:42:51,891 - INFO - - Don't Move by Phantogram
+2024-11-09 16:42:51,891 - INFO - - Team by Lorde
+2024-11-09 16:42:51,892 - INFO - - Drunk by Ed Sheeran
+2024-11-09 16:42:51,892 - INFO - 
+Attempting to start playback...
+2024-11-09 16:42:52,242 - INFO - Starting playback...
+2024-11-09 16:42:52,963 - INFO - Playback started successfully!
+2024-11-09 16:42:52,964 - INFO - Successfully started playback!
+2024-11-12 15:49:35,213 - INFO - Initializing musikAI...
+2024-11-12 15:49:35,215 - INFO - Connecting to Spotify...
+2024-11-12 15:49:35,805 - INFO - Connected as: ghett0o_.
+2024-11-12 15:49:36,483 - INFO - 
+Available Spotify devices:
+2024-11-12 15:49:36,483 - INFO - - DESKTOP-0NS770S (Active)
+2024-11-12 15:49:36,758 - INFO - Loading emotion recognition models...
+2024-11-12 15:49:37,632 - INFO - 
+musikAI is ready!
+2024-11-12 15:49:37,633 - INFO - Processing video feed...
+2024-11-12 15:49:38,890 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-12 15:49:40,826 - INFO - Creating new playlist: musikAI - Neutral Mood
+2024-11-12 15:49:41,141 - INFO - 
+Updated playlist with tracks:
+2024-11-12 15:49:41,142 - INFO - - Finally Moving by Pretty Lights
+2024-11-12 15:49:41,143 - INFO - - … Passing By by Ulrich Schnauss
+2024-11-12 15:49:41,150 - INFO - - Don't Move by Phantogram
+2024-11-12 15:49:41,151 - INFO - - Team by Lorde
+2024-11-12 15:49:41,151 - INFO - - Drunk by Ed Sheeran
+2024-11-12 15:49:41,152 - INFO - 
+Attempting to start playback...
+2024-11-12 15:49:41,504 - INFO - Starting playback...
+2024-11-12 15:49:42,225 - INFO - Playback started successfully!
+2024-11-12 15:49:42,225 - INFO - Successfully started playback!
+2024-11-12 15:50:14,633 - INFO - 
+Updating playlist for mood: Happy
+2024-11-12 15:50:16,898 - INFO - Creating new playlist: musikAI - Happy Mood
+2024-11-12 15:50:17,226 - INFO - 
+Updated playlist with tracks:
+2024-11-12 15:50:17,228 - INFO - - Lights - Single Version by Ellie Goulding
+2024-11-12 15:50:17,229 - INFO - - Brown Sugar - Original Mix by Platinum Doug
+2024-11-12 15:50:17,230 - INFO - - Elouisa by The Swiss
+2024-11-12 15:50:17,230 - INFO - - Carried Away by Passion Pit
+2024-11-12 15:50:17,231 - INFO - - Sugar by Maroon 5
+2024-11-12 15:50:17,232 - INFO - 
+Attempting to start playback...
+2024-11-12 15:50:17,576 - INFO - Starting playback...
+2024-11-12 15:50:18,321 - INFO - Playback started successfully!
+2024-11-12 15:50:18,322 - INFO - Successfully started playback!
+2024-11-12 15:50:44,758 - INFO - 
+Updating playlist for mood: Neutral
+2024-11-12 15:50:46,052 - INFO - 
+Updated playlist with tracks:
+2024-11-12 15:50:46,053 - INFO - - Sitting, Waiting, Wishing by Jack Johnson
+2024-11-12 15:50:46,054 - INFO - - Just Give Me a Reason (feat. Nate Ruess) by P!nk
+2024-11-12 15:50:46,054 - INFO - - Seeya Later by Boards of Canada
+2024-11-12 15:50:46,054 - INFO - - 23 Minutes in Brussels by Luna
+2024-11-12 15:50:46,055 - INFO - - Mythological Beauty by Big Thief
+2024-11-12 15:50:46,055 - INFO - 
+Attempting to start playback...
+2024-11-12 15:50:46,393 - INFO - Starting playback...
+2024-11-12 15:50:47,264 - INFO - Playback started successfully!
+2024-11-12 15:50:47,265 - INFO - Successfully started playback!
