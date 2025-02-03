@@ -29,3 +29,9 @@ python src/musikai_app.py
 ## Contributors
 - **Mohammad Naim D. Mariga**
 - **Edgar Jr B. Villas**
+
+## License
+This project is open-source. Feel free to modify and improve!
+
+---
+For any inquiries or improvements, open an issue or submit a pull request on GitHub!
