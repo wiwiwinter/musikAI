@@ -26,6 +26,6 @@ Run the main application script:
 python src/musikai_app.py
 ```
 
-## License
-This project is licensed under the MIT License.
-
+## Contributors
+- **Mohammad Naim D. Mariga**
+- **Edgar Jr B. Villas**
